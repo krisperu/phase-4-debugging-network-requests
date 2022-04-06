@@ -93,7 +93,7 @@ Movie.create([
     length: 140,
     director: "George Miller",
     description: "Unearthing feminism in a scorched, hell-on-wheels action flick from road warrior franchise man George Miller isn't exactly obvious. But though it's titled after a male character, he is muzzled for much of the film, lending the action to a female imperator and her feminist revolt against the horrors of sexism.",
-    poster_url: "https://cdn.shopify.com/s/files/1/1416/8662/products/mad_max_fury_road_2015_advance_original_film_artB_69310cd2-a499-45fc-a12d-df89480c4c99_5000x.jpg?v=1573593327",
+    poster_url: "https://mrcsays.files.wordpress.com/2015/06/fury-road-poster.jpg",
     category: "Fantasy",
     discount: false,
     female_director: false
